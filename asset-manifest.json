@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/narrative-emotion-analyzer/static/css/main.752546bc.css",
-    "main.js": "/narrative-emotion-analyzer/static/js/main.7e66e904.js",
+    "main.css": "/narrative-emotion-analyzer/static/css/main.a259ce21.css",
+    "main.js": "/narrative-emotion-analyzer/static/js/main.a20d11a7.js",
     "static/js/453.0a32210f.chunk.js": "/narrative-emotion-analyzer/static/js/453.0a32210f.chunk.js",
     "index.html": "/narrative-emotion-analyzer/index.html",
-    "main.752546bc.css.map": "/narrative-emotion-analyzer/static/css/main.752546bc.css.map",
-    "main.7e66e904.js.map": "/narrative-emotion-analyzer/static/js/main.7e66e904.js.map",
+    "main.a259ce21.css.map": "/narrative-emotion-analyzer/static/css/main.a259ce21.css.map",
+    "main.a20d11a7.js.map": "/narrative-emotion-analyzer/static/js/main.a20d11a7.js.map",
     "453.0a32210f.chunk.js.map": "/narrative-emotion-analyzer/static/js/453.0a32210f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.752546bc.css",
-    "static/js/main.7e66e904.js"
+    "static/css/main.a259ce21.css",
+    "static/js/main.a20d11a7.js"
   ]
 }
