@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/narrative-emotion-analyzer/static/css/main.752546bc.css",
-    "main.js": "/narrative-emotion-analyzer/static/js/main.3315a0df.js",
+    "main.js": "/narrative-emotion-analyzer/static/js/main.7e66e904.js",
     "static/js/453.0a32210f.chunk.js": "/narrative-emotion-analyzer/static/js/453.0a32210f.chunk.js",
     "index.html": "/narrative-emotion-analyzer/index.html",
     "main.752546bc.css.map": "/narrative-emotion-analyzer/static/css/main.752546bc.css.map",
-    "main.3315a0df.js.map": "/narrative-emotion-analyzer/static/js/main.3315a0df.js.map",
+    "main.7e66e904.js.map": "/narrative-emotion-analyzer/static/js/main.7e66e904.js.map",
     "453.0a32210f.chunk.js.map": "/narrative-emotion-analyzer/static/js/453.0a32210f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.752546bc.css",
-    "static/js/main.3315a0df.js"
+    "static/js/main.7e66e904.js"
   ]
 }
